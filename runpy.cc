@@ -2,6 +2,7 @@
 #include <octave/load-path.h>
 #include <octave/dNDArray.h>
 #include <Python.h>
+#include <stdexcept>
 
 // TODO: support for numpy
 // #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
